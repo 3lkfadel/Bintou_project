@@ -1,0 +1,17 @@
+[
+    {
+      "image": "assets/Illustration/book1.png",
+      "title": "Book Title 1",
+      "auth": "Author 1",
+      "rating": 4.5,
+      "tomes": 5
+    },
+    {
+      "image": "assets/Illustration/book2.png",
+      "title": "Book Title 2",
+      "auth": "Author 2",
+      "rating": 4.0,
+      "tomes": 3
+    }
+  ]
+  
